@@ -1,0 +1,7 @@
+II.A - Teste 1 12/13
+
+Tendo atenção às circunstâncias que rodeiam o nosso programa a opção considerada correcta seria a opção C, que supõe a implementação de uma sequência de visitas para o nosso percurso.
+A análise dos comandos revela as seguintes características: a eventual repetição do mesmo elemento(Esta característica verifica-se devido à possibilidade de uma criança visitar uma diversão mais do que uma vez);uma progressão gradual e ordenada(uma vez que estamos a considerar um percurso que tem um número variado de elementos, que estão ordenados pela ordem de visita de cada); e um acesso por uma posição definida nessa ordem(comando D). 
+Tendo em conta a primeira característica, podemos eliminar as opções C e D, uma vez que dicionários e conjuntos não admitem elementos repetidos.
+Uma vez que nos pedem um acesso direto a uma posição estabelecida, chegamos à conclusão que a implementação na sequência será mais eficiente que a da fila, assim eleminando a opção A. 
+Conclui-se que a única opção que satisfaz as nossas condições e circunstâncias é a opção C, que tem presente a implementação do nosso percurso numa sequência.
